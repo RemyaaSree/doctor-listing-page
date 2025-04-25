@@ -1,0 +1,35 @@
+/* src/styles.css */
+body {
+    font-family: sans-serif;
+  }
+  .search-bar {
+    margin: 20px;
+  }
+  .suggestions {
+    border: 1px solid #ccc;
+    max-width: 300px;
+    background: white;
+    list-style: none;
+    padding: 0;
+  }
+  .suggestions li {
+    padding: 8px;
+    cursor: pointer;
+  }
+  .filters {
+    padding: 20px;
+    min-width: 250px;
+  }
+  .main {
+    display: flex;
+  }
+  .results {
+    padding: 20px;
+    flex: 1;
+  }
+  .doctor-card {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  

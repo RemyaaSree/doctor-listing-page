@@ -32,10 +32,6 @@ All doctor data is fetched from the following endpoint:
 
 https://srijandubey.github.io/campus-api-mock/SRM-C1-25.json
 
-bash
-Copy
-Edit
-
 The application loads all doctors at once and then performs local filtering, searching, and sorting.
 
 ## 🚀 Getting Started
@@ -61,42 +57,39 @@ bash
 Copy
 Edit
 npm run build
-📂 Folder Structure
-pgsql
-Copy
-Edit
-doctor-listing-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── DoctorCard.js
-│   │   ├── SearchBar.js
-│   │   ├── FilterPanel.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── utils/
-│       └── helpers.js
-├── README.md
-├── package.json
-└── .gitignore
-🧪 Testing Support
-All testable elements are equipped with data-testid attributes.
+##📂 Folder Structure
 
-To run tests (if implemented):
+-doctor-listing-app/
+-├── public/
+-│   └── index.html
+-├── src/
+-│   ├── components/
+-│   │   ├── DoctorCard.js
+-│   │   ├── SearchBar.js
+-│   │   ├── FilterPanel.js
+-│   ├── App.js
+-│   ├── App.css
+-│   ├── index.js
+-│   └── utils/
+-│       └── helpers.js
+-├── README.md
+-├── package.json
+-└── .gitignore
 
-bash
-Copy
-Edit
-npm test
+## 🧪 Testing Support
+
+-All testable elements are equipped with data-testid attributes.
+
+- To run tests (if implemented):
+
+-npm test
 👨‍🎓 Submitted By
-Name: Your Name
+Name: Remyaa Sree 
 
-Roll Number: Your Roll Number
+Roll Number: RA2211008020111
 
-College Email ID: yourname@srmist.edu.in
+College Email ID: ss0675@srmist.edu.in
 
-GitHub Link: https://github.com/your-username
+GitHub Link: https://github.com/RemyaaSree
 
 Deployment Link: https://your-deployment-url.com

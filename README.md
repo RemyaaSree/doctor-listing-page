@@ -2,10 +2,6 @@
 
 A responsive and fully-functional Doctor Listing Page built using **React.js**. This web application allows users to **search**, **filter**, and **sort** doctors based on various parameters. It is part of the SRM Campus Hiring Process assignment dated **25th April 2025**.
 
-## 🔗 Deployment Link
-
-[👉 Click here to view the deployed app](https://your-deployment-url.com)
-
 ## 📌 Features
 
 - 🔍 **Search by Doctor Name** with autocomplete functionality.
@@ -94,4 +90,3 @@ College Email ID: ss0675@srmist.edu.in
 
 GitHub Link: https://github.com/RemyaaSree
 
-Deployment Link: https://your-deployment-url.com
